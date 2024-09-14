@@ -20,13 +20,13 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/V-StressTest.git
-   cd V-StressTest
+   git clone https://github.com/klxuz/KLZ-Ping.git
+   cd KLZ-Ping
    ```
 
 2. **Make the script executable**:
    ```bash
-   chmod +x stress_test.sh
+   chmod +x update.sh
    ```
 
 3. **Install Required Tools**:
