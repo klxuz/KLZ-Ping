@@ -39,7 +39,7 @@
 
 1. Run the tool:
    ```bash
-   ./stress_test.sh
+   ./update.sh
    ```
 
 2. You'll be presented with a menu to either:
